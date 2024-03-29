@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azmain Mahpara Iqbal</h1>
+<h1 align="center">Azmain Mahpara Iqbal</h1>
 <h3 align="center">An aspiring software engineering student and digital artist</h3>
 
 - 🌱 I’m currently learning **frontend development and data analysis**
